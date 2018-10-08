@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=yc8otHWn6KA
+https://developer.android.com/studio/command-line/adb
 https://www.thecustomdroid.com/install-adb-windows-linux-macos/
 
 ➜  ~ cd /Users/duongtuan/Downloads/platform-tools/    
